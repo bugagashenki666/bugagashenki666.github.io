@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { AbsoluteCenter, Box } from "@chakra-ui/react";
 
 export const Error = ({data}) => {

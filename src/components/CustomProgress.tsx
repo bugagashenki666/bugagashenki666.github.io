@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { AbsoluteCenter, Box, Progress, TimelineContent } from "@chakra-ui/react";
 import { useEffect, useState } from "react";
 

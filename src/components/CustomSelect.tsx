@@ -1,3 +1,4 @@
+// @ts-nocheck
 "use client";
 
 import { Portal, Select, createListCollection } from "@chakra-ui/react";

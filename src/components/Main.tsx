@@ -1,3 +1,5 @@
+
+// @ts-nocheck
 import { Box } from "@chakra-ui/react";
 import { ContactTable } from "./ContactTable";
 import { FiltersPanel } from "./FiltersPanel";

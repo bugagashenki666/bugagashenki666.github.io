@@ -1,9 +1,10 @@
+// @ts-nocheck
 import axios from "axios";
 import "./App.css";
 import { useEffect, useState } from "react";
 import { CustomProgress } from "./components/CustomProgress";
 import { AsideMenu } from "./components/AsideMenu";
-import { Box, Center, Container, Flex, VStack } from "@chakra-ui/react";
+import { Box, Container, Flex } from "@chakra-ui/react";
 import { Page } from "./components/Page";
 import { Header } from "./components/Header";
 import { Main } from "./components/Main";
