@@ -7,7 +7,11 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
+<<<<<<< HEAD
     "preview": "vite preview",
+=======
+    "preview": "vite preview"
+>>>>>>> 813d2f7d4059e1f2bef33cee9698b65d70422ecf
     "homepage": "https://bugagashenki666.github.io",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
